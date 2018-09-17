@@ -119,7 +119,7 @@ legend.append('rect')
 
 /* ZOOM CONTROLS */
 const zoom = d3.zoom()
-  .scaleExtent([1, 20])
+  .scaleExtent([1, 6])
   .on("zoom", () => {
     g.attr("transform", "translate(" + d3.event.transform.x + "," + d3.event.transform.y + ") scale(" + d3.event.transform.k + ")");
   });
