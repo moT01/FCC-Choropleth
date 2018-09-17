@@ -1,0 +1,15 @@
+/*STYLE FOR ELEMENTS NOT USED IN D3*/
+* {
+  cursor: default;
+  margin: 0;
+  padding: 0; }
+
+body {
+  min-height: 100vh;
+  margin: 20px;
+  text-align: center;
+  background-color: #ccc; 
+  overflow: hidden; }
+
+#description {
+  font-size: 20px; }
