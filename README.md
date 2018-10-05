@@ -1,5 +1,5 @@
-## FCC-Drum-Machine
-##### Drum Machine project for [freeCodeCamp](https://freecodecamp.org/)
+## FCC-Choropleth
+##### Choropleth Map project for [freeCodeCamp](https://freecodecamp.org/)
 ##### Check it out [here](https://mot01.github.io/FCC-Choropleth/)
 
 <br/>
